@@ -1,0 +1,11 @@
+{
+  "name": "ethsentinelle",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "license": "Beerware",
+  "dependencies": {
+    "ethereumjs-util": "^5.1.2",
+    "https": "^1.0.0"
+  }
+}
